@@ -1,0 +1,108 @@
+##############################
+# SISTEMA OPERACIONAL
+##############################
+.DS_Store
+Thumbs.db
+
+##############################
+# VISUAL STUDIO / .NET
+##############################
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / VS Code
+.idea/
+.vscode/
+*.code-workspace
+
+##############################
+# LOGS
+##############################
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+##############################
+# NODE / REACT
+##############################
+node_modules/
+dist/
+build/
+.next/
+out/
+
+##############################
+# AMBIENTE / SEGURANÇA
+##############################
+.env
+.env.*
+appsettings.Development.json
+appsettings.*.json
+
+# Secrets
+secrets.json
+*.key
+*.pem
+*.pfx
+
+##############################
+# CACHE
+##############################
+.cache/
+.tmp/
+temp/
+
+##############################
+# TESTES
+##############################
+coverage/
+*.coverage
+
+##############################
+# DOCKER
+##############################
+docker-compose.override.yml
+
+##############################
+# ARQUIVOS GERADOS
+##############################
+*.zip
+*.tar
+*.gz
+
+##############################
+# DATABASE LOCAL
+##############################
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
+##############################
+# MIGRATIONS (OPCIONAL)
+##############################
+# Descomente se NÃO quiser versionar migrations
+# Migrations/
+
+##############################
+# PUBLIC / UPLOADS
+##############################
+wwwroot/uploads/
+uploads/
+
+##############################
+# CERTIFICADOS (IMPORTANTE LGPD)
+##############################
+*.crt
+*.cer
+
+##############################
+# BUILD ARTIFACTS
+##############################
+publish/
