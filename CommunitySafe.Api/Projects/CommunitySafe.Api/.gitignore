@@ -1,0 +1,34 @@
+# ==========================================
+# Ignorar pastas de compilação do .NET
+# ==========================================
+[Bb]in/
+[Oo]bj/
+
+# ==========================================
+# Ignorar configurações de IDEs (Visual Studio / VS Code)
+# ==========================================
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.sln.docstates
+
+# ==========================================
+# Ignorar configurações de ambiente local (Segurança)
+# ==========================================
+# Impede que suas chaves de banco de dados locais vazem para o GitHub
+appsettings.Development.json
+appsettings.Local.json
+.env
+
+# ==========================================
+# Ignorar Logs e Caches diversos
+# ==========================================
+*.log
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Ignorar banco de dados local SQLite (caso use para testes)
+*.db
+*.db-shm
+*.db-wal
