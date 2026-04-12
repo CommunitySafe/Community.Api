@@ -1,8 +1,8 @@
-# 1. Usa a imagem do .NET SDK para compilar o projeto
+    # 1. Usa a imagem do .NET SDK para compilar o projeto
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 COPY . .
-RUN dotnet publish -c Release -o /app/publish
+RUN dotnet publish "Community.Api\CommunitySafe.Api\Projects\CommunitySafe.Api"
 
 # 2. Usa a imagem mais leve apenas para rodar a API (Produção)
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
