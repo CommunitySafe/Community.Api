@@ -2,6 +2,9 @@
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 COPY . .
+
+RUN ls -R
+
 RUN dotnet publish "Community.Api/CommunitySafe.Api/Projects/CommunitySafe.Api/CommunitySafe.Api.csproj" -c Release -o /app/publish /p:UseAppHost=false
 
 # 2. Usa a imagem mais leve apenas para rodar a API (Produção)
