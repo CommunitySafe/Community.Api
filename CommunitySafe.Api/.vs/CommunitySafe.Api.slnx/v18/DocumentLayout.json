@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\source\\git\\Community.Api\\CommunitySafe.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C9FF63A-C01E-6E84-5B43-AE4F73189B68}|Projects\\CommunitySafe.Api\\CommunitySafe.Api.csproj|c:\\source\\git\\community.api\\communitysafe.api\\projects\\communitysafe.api\\communitysafe.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{1C9FF63A-C01E-6E84-5B43-AE4F73189B68}|Projects\\CommunitySafe.Api\\CommunitySafe.Api.csproj|solutionrelative:projects\\communitysafe.api\\communitysafe.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{1C9FF63A-C01E-6E84-5B43-AE4F73189B68}|Projects\\CommunitySafe.Api\\CommunitySafe.Api.csproj|c:\\source\\git\\community.api\\communitysafe.api\\projects\\communitysafe.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C9FF63A-C01E-6E84-5B43-AE4F73189B68}|Projects\\CommunitySafe.Api\\CommunitySafe.Api.csproj|solutionrelative:projects\\communitysafe.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C9FF63A-C01E-6E84-5B43-AE4F73189B68}|Projects\\CommunitySafe.Api\\CommunitySafe.Api.csproj|c:\\source\\git\\community.api\\communitysafe.api\\projects\\communitysafe.api\\communitysafe.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{1C9FF63A-C01E-6E84-5B43-AE4F73189B68}|Projects\\CommunitySafe.Api\\CommunitySafe.Api.csproj|solutionrelative:projects\\communitysafe.api\\communitysafe.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{1C9FF63A-C01E-6E84-5B43-AE4F73189B68}|Projects\\CommunitySafe.Api\\CommunitySafe.Api.csproj|c:\\source\\git\\community.api\\communitysafe.api\\projects\\communitysafe.api\\communitysafe.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1C9FF63A-C01E-6E84-5B43-AE4F73189B68}|Projects\\CommunitySafe.Api\\CommunitySafe.Api.csproj|solutionrelative:projects\\communitysafe.api\\communitysafe.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C9FF63A-C01E-6E84-5B43-AE4F73189B68}|Projects\\CommunitySafe.Api\\CommunitySafe.Api.csproj|c:\\source\\git\\community.api\\communitysafe.api\\projects\\communitysafe.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{1C9FF63A-C01E-6E84-5B43-AE4F73189B68}|Projects\\CommunitySafe.Api\\CommunitySafe.Api.csproj|c:\\source\\git\\community.api\\communitysafe.api\\projects\\communitysafe.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C9FF63A-C01E-6E84-5B43-AE4F73189B68}|Projects\\CommunitySafe.Api\\CommunitySafe.Api.csproj|solutionrelative:projects\\communitysafe.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9FF63A-C01E-6E84-5B43-AE4F73189B68}|Projects\\CommunitySafe.Api\\CommunitySafe.Api.csproj|c:\\source\\git\\community.api\\communitysafe.api\\projects\\communitysafe.api\\communitysafe.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1C9FF63A-C01E-6E84-5B43-AE4F73189B68}|Projects\\CommunitySafe.Api\\CommunitySafe.Api.csproj|solutionrelative:projects\\communitysafe.api\\communitysafe.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,28 +30,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\source\\git\\Community.Api\\CommunitySafe.Api\\Projects\\CommunitySafe.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Projects\\CommunitySafe.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\source\\git\\Community.Api\\CommunitySafe.Api\\Projects\\CommunitySafe.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Projects\\CommunitySafe.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-12T22:28:50.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CommunitySafe.Api",
               "DocumentMoniker": "C:\\source\\git\\Community.Api\\CommunitySafe.Api\\Projects\\CommunitySafe.Api\\CommunitySafe.Api.csproj",
               "RelativeDocumentMoniker": "Projects\\CommunitySafe.Api\\CommunitySafe.Api.csproj",
               "ToolTip": "C:\\source\\git\\Community.Api\\CommunitySafe.Api\\Projects\\CommunitySafe.Api\\CommunitySafe.Api.csproj",
               "RelativeToolTip": "Projects\\CommunitySafe.Api\\CommunitySafe.Api.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-12T18:21:09.731Z"
+              "WhenOpened": "2026-04-12T18:21:09.731Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CommunitySafe.Api.http",
               "DocumentMoniker": "C:\\source\\git\\Community.Api\\CommunitySafe.Api\\Projects\\CommunitySafe.Api\\CommunitySafe.Api.http",
               "RelativeDocumentMoniker": "Projects\\CommunitySafe.Api\\CommunitySafe.Api.http",
               "ToolTip": "C:\\source\\git\\Community.Api\\CommunitySafe.Api\\Projects\\CommunitySafe.Api\\CommunitySafe.Api.http",
               "RelativeToolTip": "Projects\\CommunitySafe.Api\\CommunitySafe.Api.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2026-04-12T18:20:58.019Z",
               "EditorCaption": ""
@@ -60,9 +78,10 @@
               "RelativeDocumentMoniker": "Projects\\CommunitySafe.Api\\appsettings.json",
               "ToolTip": "C:\\source\\git\\Community.Api\\CommunitySafe.Api\\Projects\\CommunitySafe.Api\\appsettings.json",
               "RelativeToolTip": "Projects\\CommunitySafe.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-12T18:20:55.292Z"
+              "WhenOpened": "2026-04-12T18:20:55.292Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -72,9 +91,10 @@
               "RelativeDocumentMoniker": "Projects\\CommunitySafe.Api\\Program.cs",
               "ToolTip": "C:\\source\\git\\Community.Api\\CommunitySafe.Api\\Projects\\CommunitySafe.Api\\Program.cs",
               "RelativeToolTip": "Projects\\CommunitySafe.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T23:20:26.946Z"
+              "WhenOpened": "2026-03-19T23:20:26.946Z",
+              "EditorCaption": ""
             }
           ]
         }
