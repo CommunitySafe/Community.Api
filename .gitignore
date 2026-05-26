@@ -9,6 +9,7 @@ Thumbs.db
 ##############################
 bin/
 obj/
+.vs/
 *.user
 *.suo
 *.userosscache
